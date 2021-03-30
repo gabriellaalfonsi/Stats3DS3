@@ -1,3 +1,2 @@
 # Stats3DS3
-Lectures and Labs for Stats3DS3
-See above for the bonus :) Have a good day.
+This is the README.md for the lab 9 bonus.
